@@ -75,7 +75,7 @@ Critérios de triagem rápida, relevância contextual e percepção de seniorida
 
 ## 🖼 Visual do Projeto
 
-![Arquitetura do Sistema](./assets/print_sistema_otimizacao.png)
+![Arquitetura do Sistema](./assets/print_sistema_otimizacao.png.png)
 
 ---
 
@@ -105,7 +105,7 @@ O resultado é um posicionamento profissional mais assertivo, coerente e competi
 
 ## 🛠 Slides Apresentação do Projeto
 
-[Capa](./assets/capa_slide_apresentacao)
+[Capa](./assets/capa_slide_apresentacao.png)
 
 
 [Link para o projeto completo](https://notebooklm.google.com/notebook/ab87f6c5-3306-4e96-8a80-7783264611a4)
