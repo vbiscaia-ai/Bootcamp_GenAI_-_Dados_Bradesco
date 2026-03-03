@@ -105,7 +105,7 @@ O resultado é um posicionamento profissional mais assertivo, coerente e competi
 
 ## 🛠 Slides Apresentação do Projeto
 
-![Capa do Projeto](./Sistema_Otimizacao_ATS/assets/capa_slide_apresentacao.png)
+![Capa do Projeto](./assets/capa_slide_apresentacao.png)
 
 [Link para o projeto completo](https://notebooklm.google.com/notebook/ab87f6c5-3306-4e96-8a80-7783264611a4)
 
