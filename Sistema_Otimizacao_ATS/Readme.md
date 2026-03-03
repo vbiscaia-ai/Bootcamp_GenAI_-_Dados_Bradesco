@@ -114,7 +114,7 @@ O resultado é um posicionamento profissional mais assertivo, coerente e competi
 
 ## 👨‍💻 Sobre o Autor
 
-Victor Gagliano  
+Victor Biscaia 
 Analista de Dados | SQL • Python • Power BI  
 
 Profissional com foco em análise estratégica de dados, atuando em projetos industriais, financeiros e comerciais. Especializado em estruturar indicadores, identificar padrões e conectar métricas à tomada de decisão orientada a impacto.
